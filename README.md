@@ -1,1 +1,1 @@
-# Swift Algorithm
+# Swift Algorithms
